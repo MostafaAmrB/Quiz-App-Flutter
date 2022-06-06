@@ -25,6 +25,4 @@ This is a simple quiz app when you can handle answer some question and at the en
 ![ResultScreen](https://user-images.githubusercontent.com/33814608/172224395-0a249f7a-00f1-43d0-b1ef-178f30ea6987.png)
 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
